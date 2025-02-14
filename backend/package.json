@@ -1,0 +1,12 @@
+{
+  "name": "chat-backend",
+  "version": "1.0.0",
+  "description": "Backend for Real-Time Chat App",
+  "main": "websocket.js",
+  "scripts": {
+    "start": "node websocket.js"
+  },
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
